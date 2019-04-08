@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 ---
 
-My name is Jeremy Chow and this is my first ever blog post! I'm new to Jekyll, blogging, and even github, so bear with me as I figure out how to format and best organize things!
+My name is **Jeremy Chow** and this is my first ever blog post! I'm new to Jekyll, blogging, and even github, so bear with me as I figure out how to format and best organize things!
 
 # What's this blog for?
 I am starting this blog to document my projects at the 12 week Metis Datascience Bootcamp training program. The data science bootcamp space is relatively new, so I hope this blog will provide people with insight on the bootcamp experience and the outcomes that it may provide. After the bootcamp, I may continue posting about my career as time allows. But first, let me introduce myself!
