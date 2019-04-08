@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Jeremy Chow:
 tagline:             Learning Data Science
-url:                 http://jeremyrchow.io
+url:                 https://jeremyrchow.github.io
 paginate:            2
 baseurl:             ""
 
